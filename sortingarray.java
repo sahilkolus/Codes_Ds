@@ -4,7 +4,7 @@ public class sortingarray {
 	public static void main(String[] args) {
 		int a[]= {20,50,30,10,40};
 		
-		//bubble sort
+		
 		int temp=0;
 		for(int i=0;i<a.length;i++)
 		{
