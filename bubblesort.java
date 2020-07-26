@@ -32,7 +32,7 @@ public class bubblesort {
 
 	public static void main(String[] args) {
 		
-		int a[] = {98,3,600,7,1,2};
+		int a[] = {87,1,100,22,16,70};
 		
 		main(a);
 		
